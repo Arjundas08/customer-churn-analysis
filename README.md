@@ -14,6 +14,7 @@ It includes:
 - Data preprocessing and cleaning  
 - Predictive modeling using Logistic Regression  
 - Interactive visualization with Power BI  
+![Dashboard Preview](./dashboard/Churn_Analysis_Dashboard.pdf.pdf)
 
 ---
 
@@ -74,3 +75,4 @@ It includes:
 B.Tech Student – Data Science  
 Passionate about Data Analytics and Machine Learning  
 GitHub: [Arjundas08](https://github.com/Arjundas08)
+
